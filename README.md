@@ -120,11 +120,11 @@ Deploy the bot to a hosting platform for production use.
 ## 📚 Documentation
 
 **For more details, refer to the following documentation** :
-- [Setup Instructions](https://github.com/thetruesammyjay/copperx-telegram-bot/blob/main/docs/setup.md) 📝
-- [API Integration Details](https://github.com/thetruesammyjay/copperx-telegram-bot/blob/main/doc/api.md) 🔗
-- [Command Reference](https://github.com/thetruesammyjay/copperx-telegram-bot/blob/main/doc/commands.md) 📜
-- [Troubleshooting Guide](https://github.com/thetruesammyjay/copperx-telegram-bot/blob/main/doc/troubleshooting.md) 🛠️
-- [Architecture Overview](https://github.com/thetruesammyjay/copperx-telegram-bot/blob/main/doc/architecture.md) 🏗️
+- [Setup Instructions](https://github.com/thetruesammyjay/copperx-bot/blob/main/docs/setup.md) 📝
+- [API Integration Details](https://github.com/thetruesammyjay/copperx-bot/blob/main/doc/api.md) 🔗
+- [Command Reference](https://github.com/thetruesammyjay/copperx-bot/blob/main/doc/commands.md) 📜
+- [Troubleshooting Guide](https://github.com/thetruesammyjay/copperx-bot/blob/main/doc/troubleshooting.md) 🛠️
+- [Architecture Overview](https://github.com/thetruesammyjay/copperx-bot/blob/main/doc/architecture.md) 🏗️
 
 ---
 ## 🤝 Contributing
