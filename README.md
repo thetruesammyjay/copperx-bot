@@ -24,7 +24,7 @@ A Telegram bot for managing Copperx payouts, including wallet balances, fund tra
 Here’s a list of all available commands and their usage:
 
 ### **🔐 Authentication**
-- **`/login <email>`**: Log in with your email. An OTP will be sent to your email.
+- **`/login <email>`**: Log in with your **CopperX** registered email. An OTP will be sent to your email.
   - Example: `/login user@example.com`
 - **`/auth <otp>`**: Authenticate with the OTP received in your email.
   - Example: `/auth 123456`
